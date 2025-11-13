@@ -1,0 +1,12 @@
+=========== Daily Calorie Tracker ===========
+Session Date & Time: 2025-11-13 20:15:37.874450
+
+Meal Name	Calories
+---------------------------------
+breakfast      	350.00
+lunch          	600.00
+snack          	150.00
+---------------------------------
+Total:		1100.00
+Average:	366.67
+Limit:		1100.00
