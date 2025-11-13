@@ -1,6 +1,5 @@
 #  tracker.py
 # Name: Sanchita
-# Date: [Date]
 # Project: Daily Calorie Tracker
 # Course: Programming for Problem Solving Using Python (ETCCPP102)
 
@@ -83,3 +82,4 @@ else:
     print("Session not saved. Exiting program...")
 
 print("\nThank you for using Daily Calorie Tracker!")
+
